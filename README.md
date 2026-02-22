@@ -3,7 +3,7 @@
 
 A **simple and interactive Notes Application** built with React.js that allows users to **add, view, and delete notes**. The app uses **React hooks (`useState`)** to manage state and provides a clean, responsive UI.
 
-![Notes App Screenshot](./src/assets/Notes.png)
+![Notes App Screenshot](./src/assets/note.png)
 
 ---
 
