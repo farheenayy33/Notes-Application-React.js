@@ -78,5 +78,3 @@ Notes-Application-React.js/
 * Add **edit functionality** for notes
 * Integrate **dark mode**
 * Add **tags or categories** for notes
-
----
