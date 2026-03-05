@@ -26,11 +26,10 @@ A **simple and interactive Notes Application** built with React.js that allows u
 
 ---
 
-## Live demo
+## 🚀 Live Demo
 
-** vercel link: https://notes-application-react-js.vercel.app/
-
-** Netlify link : https://notes-appreactjs.netlify.app/
+  **Vercel:** [Notes App](https://notes-application-react-js.vercel.app/)
+**Netlify:** [Notes App](https://notes-appreactjs.netlify.app/)
 
 ## **Getting Started**
 
